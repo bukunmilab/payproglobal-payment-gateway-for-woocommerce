@@ -1,4 +1,4 @@
-# PPG for WooCommerce
+# PayProGlobal for WooCommerce
 
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-Compatible-blue?logo=woocommerce)
 ![WordPress](https://img.shields.io/badge/WordPress-6.0+-blue?logo=wordpress)
@@ -45,11 +45,11 @@ A **PayProGlobal** payment gateway integration for WooCommerce, supporting one-t
 
 ## Support
 For assistance, contact:  
-📧 support@proxyle.com  
-🌐 [https://proxyle.com](https://proxyle.com)
+📧 support@loquisoft.com  
+🌐 [https://loquisoft.com](https://loquisoft.com)
 
 ---
 
 **License**: Commercial (Proprietary)  
-**Author**: [Proxyle](https://proxyle.com)  
+**Author**: [Loquisoft](https://loquisoft.com)  
 **Version**: 1.0
